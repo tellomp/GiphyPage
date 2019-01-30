@@ -1,0 +1,39 @@
+body{
+    font-family: "Anton", sans-serif;
+font-style: normal;
+font-weight: 800;
+color: #e3c67d;
+font-size: 20pt;
+}
+
+
+#searchSection {
+    text-indent: 37px;
+    margin-top:120px;
+
+}
+
+#add {
+    background-color:#e3c67d;
+    font-size: 14pt;
+    margin-left:115px;
+}
+
+#addHero {
+    background-color: #e1d2ac;
+}
+
+.btn-default {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-size: 18pt;
+    margin:3px;
+}
+
+#myAudio {
+    align-self: baseline;
+    
+}
+
+
+
+
