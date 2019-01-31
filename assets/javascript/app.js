@@ -1,5 +1,8 @@
 var superHeroes = ["Thor", "Ironman", "Black Panther", "Black Widow","Hulk", "Loki","Deadpool","Guardians of The Galaxy", "Captain America", "Nick Fury", "Gamora"];
+var audio = new Audio("assets/images/intromusic.mp3");
 
+
+setTimeout(timeUp, 1000 * 5);
 
 function buttonCreator() {
 
@@ -106,8 +109,9 @@ function buttonAdder() {
         buttonAdder();
     });
 
-var audio = new Audio("assets/images/intromusic.mp3");
-setTimeout(timeUp, 1000 * 5);
+
+
+
 function timeUp() {
   console.log("Play intro music. It won't restart when you refresh tho.");
   audio.play();
