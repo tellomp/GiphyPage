@@ -16,7 +16,7 @@
 
 ![alt text][gif]
 
-[gif]: https://github.com/tellomp/GiphyPage/blob/master/assets/images/AddButton.png "Gifs"
+[gif]: https://github.com/tellomp/GiphyPage/blob/master/assets/images/gif.png "Gifs"
 
 ### Live App
 * Add buttons of your favorite superheros and click to see their gifs here! https://tellomp.github.io/GiphyPage/
